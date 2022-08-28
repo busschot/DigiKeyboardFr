@@ -7,7 +7,7 @@ char* sentences[9] = {
   "Hola mundo!",
   "It is a beautiful day!",
   "C'est un jour magnifique!",
-  "Estas un dia hermoso!",
+  "Es un dia hermoso!",
   "How are you?",
   "Comment allez-vous?",
   "Como estas?"
